@@ -1,4 +1,4 @@
-import {Entity, model, property} from '@loopback/repository';
+import { Entity, model, property } from '@loopback/repository';
 
 @model()
 export class Persona extends Entity {
@@ -7,25 +7,25 @@ export class Persona extends Entity {
     id: true,
     required: true,
   })
-  Nombre: string;
+  nombre: string;
 
   @property({
     type: 'string',
     required: true,
   })
-  Pass: string;
+  pass: string;
 
   @property({
     type: 'string',
     required: true,
   })
-  Rol: string;
+  rol: string;
 
   @property({
     type: 'number',
     required: true,
   })
-  Puntos: number;
+  puntos: number;
 
   constructor(data?: Partial<Persona>) {
     super(data);

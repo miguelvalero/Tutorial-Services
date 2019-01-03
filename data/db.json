@@ -4,12 +4,12 @@
   },
   "models": {
     "Persona": {
-      "Miguel": "{\"Nombre\":\"Miguel\",\"Pass\":\"MMM\",\"Rol\":\"Profesor\",\"Puntos\":0}",
-      "Maria": "{\"Nombre\":\"Maria\",\"Pass\":\"MMM\",\"Rol\":\"Alumno\",\"Puntos\":0}",
-      "Carlos": "{\"Nombre\":\"Carlos\",\"Pass\":\"CCC\",\"Rol\":\"Alumno\",\"Puntos\":0}",
-      "Rosa": "{\"Nombre\":\"Rosa\",\"Pass\":\"RRR\",\"Rol\":\"Alumno\",\"Puntos\":0}",
-      "Pedro": "{\"Nombre\":\"Pedro\",\"Pass\":\"PPP\",\"Rol\":\"Profesor\",\"Puntos\":0}",
-      "Juan": "{\"Nombre\":\"Juan\",\"Pass\":\"JJJ\",\"Rol\":\"Alumno\",\"Puntos\":0}"
+      "Miguel": "{\"nombre\":\"Miguel\",\"pass\":\"MMM\",\"rol\":\"Profesor\",\"puntos\":0}",
+      "Maria": "{\"nombre\":\"Maria\",\"pass\":\"MMM\",\"rol\":\"Alumno\",\"puntos\":0}",
+      "Carlos": "{\"nombre\":\"Carlos\",\"pass\":\"CCC\",\"rol\":\"Alumno\",\"puntos\":0}",
+      "Rosa": "{\"nombre\":\"Rosa\",\"pass\":\"RRR\",\"rol\":\"Alumno\",\"puntos\":0}",
+      "Pedro": "{\"nombre\":\"Pedro\",\"pass\":\"PPP\",\"rol\":\"Profesor\",\"puntos\":0}",
+      "Juan": "{\"nombre\":\"Juan\",\"pass\":\"JJJ\",\"rol\":\"Alumno\",\"puntos\":0}"
     }
   }
 }
