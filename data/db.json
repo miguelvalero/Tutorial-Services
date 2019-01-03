@@ -1,0 +1,15 @@
+{
+  "ids": {
+    "Persona": 7
+  },
+  "models": {
+    "Persona": {
+      "Miguel": "{\"Nombre\":\"Miguel\",\"Pass\":\"MMM\",\"Rol\":\"Profesor\",\"Puntos\":0}",
+      "Maria": "{\"Nombre\":\"Maria\",\"Pass\":\"MMM\",\"Rol\":\"Alumno\",\"Puntos\":0}",
+      "Carlos": "{\"Nombre\":\"Carlos\",\"Pass\":\"CCC\",\"Rol\":\"Alumno\",\"Puntos\":0}",
+      "Rosa": "{\"Nombre\":\"Rosa\",\"Pass\":\"RRR\",\"Rol\":\"Alumno\",\"Puntos\":0}",
+      "Pedro": "{\"Nombre\":\"Pedro\",\"Pass\":\"PPP\",\"Rol\":\"Profesor\",\"Puntos\":0}",
+      "Juan": "{\"Nombre\":\"Juan\",\"Pass\":\"JJJ\",\"Rol\":\"Alumno\",\"Puntos\":0}"
+    }
+  }
+}
