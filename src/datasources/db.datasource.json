@@ -1,6 +1,10 @@
 {
   "name": "db",
-  "connector": "memory",
-  "localStorage": "",
-  "file": "./data/db.json"
+  "connector": "mysql",
+  "url": "",
+  "host": "localhost",
+  "port": 3306,
+  "user": "root",
+  "password": "mimara",
+  "database": "datos_tutorial_herramientas_classpip"
 }

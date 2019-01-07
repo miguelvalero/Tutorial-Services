@@ -1,15 +1,20 @@
 {
   "ids": {
-    "Persona": 7
+    "Persona": 14
   },
   "models": {
     "Persona": {
       "Miguel": "{\"nombre\":\"Miguel\",\"pass\":\"MMM\",\"rol\":\"Profesor\",\"puntos\":0}",
-      "Maria": "{\"nombre\":\"Maria\",\"pass\":\"MMM\",\"rol\":\"Alumno\",\"puntos\":0}",
-      "Carlos": "{\"nombre\":\"Carlos\",\"pass\":\"CCC\",\"rol\":\"Alumno\",\"puntos\":0}",
-      "Rosa": "{\"nombre\":\"Rosa\",\"pass\":\"RRR\",\"rol\":\"Alumno\",\"puntos\":0}",
+      "Maria": "{\"nombre\":\"Maria\",\"pass\":\"MMM\",\"rol\":\"Alumno\",\"puntos\":1}",
+      "Carlos": "{\"nombre\":\"Carlos\",\"pass\":\"CCC\",\"rol\":\"Alumno\",\"puntos\":6}",
+      "Rosa": "{\"nombre\":\"Rosa\",\"pass\":\"rrr\",\"rol\":\"Alumno\",\"puntos\":0}",
       "Pedro": "{\"nombre\":\"Pedro\",\"pass\":\"PPP\",\"rol\":\"Profesor\",\"puntos\":0}",
-      "Juan": "{\"nombre\":\"Juan\",\"pass\":\"JJJ\",\"rol\":\"Alumno\",\"puntos\":0}"
+      "Juan": "{\"nombre\":\"Juan\",\"pass\":\"JJJ\",\"rol\":\"Alumno\",\"puntos\":3}",
+      "Gloria": "{\"nombre\":\"Gloria\",\"pass\":\"ggg\",\"rol\":\"Alumno\",\"puntos\":19}",
+      "Julian": "{\"nombre\":\"Julian\",\"pass\":\"JJJ\",\"rol\":\"Alumno\",\"puntos\":10}",
+      "Rosalia": "{\"nombre\":\"Rosalia\",\"pass\":\"RRR\",\"rol\":\"Alumno\",\"puntos\":4}",
+      "string": "{\"nombre\":\"string\",\"pass\":\"string\",\"rol\":\"string\",\"puntos\":0}",
+      "Carla": "{\"nombre\":\"Carla\",\"pass\":\"CCC\",\"rol\":\"Alumno\",\"puntos\":7}"
     }
   }
 }
